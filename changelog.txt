@@ -1,0 +1,128 @@
+Version 1.6
+        Added:
+            - "Mobile logo image" feild
+            - Theme localization in Spanish is added
+            - Instagram Widget By WPzoom plugin
+        Fixed:
+            - Update plugins to their latest versions
+            - Optimization for Gutenberg
+            - Improve theme styles
+            - Update JS scripts
+            - Update documentation
+        Removed:
+            - Instagram widget plugin
+
+Version 1.5
+    	Added:
+    		- Bookly Lite plugin
+            - Home-4 page
+            - Home-5 page
+            - 2 Color scheme
+
+        Fixed:
+            - Improve theme styles
+
+        Changed:
+            - Splash
+
+Version 1.4.7
+    Fixed:
+    - Next and Previous Links on the events single page
+
+Version 1.4.6
+	Fixed:
+	- Equal height
+	- Optimize code
+
+Version 1.4.5
+    Fixed:
+    - Optimize code
+    - Update plugins to their latest versions
+    - Compatibility with The Events Calendar 4.6.22
+    - Improve theme styles
+	- Equal height
+
+Version 1.4.4
+    Fixed:
+	- Optimize code
+	- Update plugins to their latest versions
+
+Version 1.4.3
+    Fixed:
+	- Update plugins to their latest versions
+	- Section shortcode
+    - Update TRX Utils plugin
+
+Version 1.4.1
+    Fixed:
+    - Compatibility with WordPress 4.9.7
+    - Update plugins to their latest versions
+    - Improve theme styles
+    - Change hover for team items
+    - Compatibility with Woocommerce 3.4.3
+    - Update documentation
+
+    Added:
+    - Checkboxes to default contact forms to make forms GDPR-compliant
+    - Privacy Policy page
+    - "Title link" option to menuitems shortcode. Using this option you can choose between displaying the title of a menu item as a text or as a link.
+
+Version 1.4
+	Added:
+		- GDPR Framework plugin
+		- Alert to Demo data installation
+		- Compatibility with Gutenberg
+	Fixed:
+		- Move Importer to ThemeREX Utilities plugin
+		- Update plugins to their latest versions
+		- Update documentation
+
+Version 1.3.1
+	Fixed:
+	- Hide row options in Visual Composer
+
+Version 1.3.0
+	Mobile menu position is changed 
+	Visual Composer updated 
+	
+Version 1.2.9
+	Visual Composer updated 
+	
+Version 1.2.8
+	Plugins updated
+
+Version 1.2.7
+	Fixed compatibility with custom font-face
+	Plugins updated
+
+Version 1.2.6
+    Plugins updated
+    Add preloader
+
+Version 1.2.5
+    Fix theme activation
+
+Version 1.2.4
+    Fix Emailer validation
+    Plugins updated
+    Compatibility with PHP7
+
+Version 1.2.3
+    The theme is now compatible with version WooCommerce 3.0.1 and higher
+
+Version 1.2.2
+    Events demo data updated
+
+Version 1.2.1
+    Color Scheme Builder fixed
+
+Version 1.2
+    Demo data installer updated
+    Security fixes
+    Plugins updated
+
+Version 1.1
+	Social login improved
+
+Version 1.0
+	Release Jacqueline

@@ -1,0 +1,41 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">scheduled-action</custom-type>
+    <custom-type translate="1">product</custom-type>
+    <custom-type translate="1">product_variation</custom-type>
+    <custom-type translate="1">shop_order</custom-type>
+    <custom-type translate="1">shop_order_refund</custom-type>
+    <custom-type translate="1">shop_coupon</custom-type>
+    <custom-type translate="1">booked_appointments</custom-type>
+    <custom-type translate="1">wpcf7_contact_form</custom-type>
+    <custom-type translate="1">vc_grid_item</custom-type>
+    <custom-type translate="1">clients</custom-type>
+    <custom-type translate="1">menuitems</custom-type>
+    <custom-type translate="1">services</custom-type>
+    <custom-type translate="1">team</custom-type>
+    <custom-type translate="1">testimonial</custom-type>
+    <custom-type translate="1">tribe_venue</custom-type>
+    <custom-type translate="1">tribe_organizer</custom-type>
+    <custom-type translate="1">tribe_events</custom-type>
+    <custom-type translate="1">tribe-ea-record</custom-type>
+    <custom-type translate="1">deleted_event</custom-type>
+    <custom-type translate="1">vc4_templates</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">action-group</taxonomy>
+    <taxonomy translate="1">product_type</taxonomy>
+    <taxonomy translate="1">product_visibility</taxonomy>
+    <taxonomy translate="1">product_cat</taxonomy>
+    <taxonomy translate="1">product_tag</taxonomy>
+    <taxonomy translate="1">product_shipping_class</taxonomy>
+    <taxonomy translate="1">translation_priority</taxonomy>
+    <taxonomy translate="1">booked_custom_calendars</taxonomy>
+    <taxonomy translate="1">clients_group</taxonomy>
+    <taxonomy translate="1">menuitems_group</taxonomy>
+    <taxonomy translate="1">services_group</taxonomy>
+    <taxonomy translate="1">team_group</taxonomy>
+    <taxonomy translate="1">testimonial_group</taxonomy>
+    <taxonomy translate="1">media_folder</taxonomy>
+    <taxonomy translate="1">tribe_events_cat</taxonomy>
+  </taxonomies>
+</wpml-config>
